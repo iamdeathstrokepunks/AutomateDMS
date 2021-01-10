@@ -18,6 +18,8 @@
   "homepage": "https://github.com/iamdeathstrokepunks/AutomateDMS#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "express-validator": "^6.9.2",
+    "formidable": "^1.2.2",
     "mongoose": "^5.11.11"
   }
 }
